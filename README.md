@@ -2,12 +2,11 @@ link:
 
 https://mohammed-bilal.vercel.app/
 
-<img width="1440" alt="Screenshot 2024-04-11 at 5 49 40 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/1f0c05f9-eb03-4491-b476-ddd2e6cfe15a">
-<img width="1440" alt="Screenshot 2024-04-11 at 5 49 47 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/4b61c289-5f67-4793-8e87-5119fd3a4c81">
-<img width="1440" alt="Screenshot 2024-04-11 at 5 49 50 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/ad45a711-a127-482a-af9b-f0ce15ffeca3">
-![Uploading Screenshot 2024-04-11 at 5.49.57 PM.png…]()
-<img width="1440" alt="Screenshot 2024-04-11 at 5 50 04 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/a9cad60e-f2d3-44fc-929c-aad7deb219d6">
-<img width="1440" alt="Screenshot 2024-04-11 at 5 50 08 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/4ce4e35d-738c-49d5-93d9-de5d9a470517">
-<img width="1440" alt="Screenshot 2024-04-11 at 5 50 12 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/caa32956-f915-45f0-a7fa-ab9987df6185">
-<img width="1440" alt="Screenshot 2024-04-11 at 5 50 15 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/098b85e9-afac-46eb-b691-c5b2c20f4c8c">
-<img width="1440" alt="Screenshot 2024-04-11 at 5 50 18 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/41761ffd-8ba3-43b7-9a17-2cd530f8f0c9">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 29 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/2dfc91eb-29cb-49d9-b5f3-ae6d1b379ffa">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 38 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/2c368238-89a0-492f-a86b-7e6fa112ee10">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 41 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/f4bce8d0-ad15-42d2-933e-321f781850ec">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 44 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/66c62faa-5320-4a6f-9910-5981cfdbe0f8">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 46 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/59f70605-c3c1-4e9f-9a1a-c0c18f052858">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 49 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/54a28cdb-6736-4129-90c4-53c5aac05abd">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 54 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/edcd15e9-e172-41d5-bb1a-b84ef33e1345">
+<img width="1440" alt="Screenshot 2024-04-11 at 5 53 57 PM" src="https://github.com/Bilalbasheer100/react_threejs_react-fiber-drei_3D-portfolio/assets/108890773/92e89cc4-98cf-460d-9e77-5970ecea1cea">
